@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://pros-backend-iakr-oldn4ykqg-ali-raza1049s-projects.vercel.app/api';
 
 // Helper function to get auth token
 const getAuthToken = () => {
